@@ -1,0 +1,1 @@
+jsdoc HOME.md ../RPG-Paper-Maker/Game/Content/Datas/Scripts/System
