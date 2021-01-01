@@ -1,1 +1,1 @@
-jsdoc HOME.md ../RPG-Paper-Maker/Game/Content/Datas/Scripts/System
+jsdoc -c ./conf.json -R HOME.md ../Game-Scripts/Content/Datas/Scripts/System -t ./jsdoc-template

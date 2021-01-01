@@ -1,7 +1,5 @@
-The game engine can be identified by the files' name beginning.
+# RPG Paper Maker - System scripts
 
-* **System** : All the system datas linked to the game (statistics, weapons, items...).
-* **Datas** : generally contains lists of system values.
-* **Window** : dialog box for interactions between PNGs.
-* **Graphic** : informations that can be drawn inside windows (dialog box).
-* **Scene** : the game is excecuted thanks to a stack which is containing scenes. For example, if you are in a battle, you will have the local map scene and the battle map scene inside the stack.
+Welcome to the game scripts documentation of RPG Paper Maker!
+
+You will find tutorials here: [https://rpg-paper-maker.gitbook.io/rpg-paper-maker/plugins-tutorials/work-in-progress](https://rpg-paper-maker.gitbook.io/rpg-paper-maker/plugins-tutorials/work-in-progress)
