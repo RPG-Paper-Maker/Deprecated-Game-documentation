@@ -32,5 +32,14 @@
           "destination": "./docs",
           "template": "./node_modules/@pixi/jsdoc-template"
       }
-  }
+  },
+  "tags": {
+    "allowUnknownTags": ["optional"]//or true
+},
+"plugins": [
+    "node_modules/better-docs/typescript"
+],
+"source": {
+    "includePattern": "\\.(jsx|js|ts|tsx)$"
+}
 }

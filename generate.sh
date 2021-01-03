@@ -1,1 +1,1 @@
-jsdoc -c ./conf.json -R HOME.md ../Game-Scripts/Content/Datas/Scripts/System -t ./jsdoc-template
+jsdoc -c ./conf.json -R HOME.md ../Game-Scripts/src -t ./node_modules/better-docs
